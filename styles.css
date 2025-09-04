@@ -24,6 +24,6 @@ button {
 }
 
 button:hover {
-    background-color: #3e3e3e;
-    color: #ffffff;
+    background-color: #ffffff;  /* Changed from #3e3e3e to #ffffff for better visibility in dark mode */
+    color: #121212;  /* Changed to dark color for contrast in dark mode */
 }
